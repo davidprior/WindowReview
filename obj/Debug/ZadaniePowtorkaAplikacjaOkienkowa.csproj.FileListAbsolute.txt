@@ -1,0 +1,9 @@
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\bin\Debug\ZadaniePowtorkaAplikacjaOkienkowa.exe
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\bin\Debug\ZadaniePowtorkaAplikacjaOkienkowa.pdb
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.csprojAssemblyReference.cache
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\WindowReview.MainForm.resources
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.Properties.Resources.resources
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.csproj.GenerateResource.cache
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.csproj.CoreCompileInputs.cache
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.exe
+C:\Users\przem\source\repos\ZadaniePowtorkaAplikacjaOkienkowa\obj\Debug\ZadaniePowtorkaAplikacjaOkienkowa.pdb
